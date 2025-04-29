@@ -10,7 +10,7 @@
 
 ## Daftar Dokumen
 
-- [Problem Statement & Background](./path/to/problem-statement.pdf)
+- [Problem Statement & Background](https://github.com/abdhaamed/EssenciaTechno/tree/main/Wireframe%20Lo-Fi)
 - [Laporan Riset Pengguna](./path/to/laporan-riset.pdf)
 - [Persona](./path/to/persona.pdf)
 - [Peta Empati](./path/to/peta-empati.pdf)
