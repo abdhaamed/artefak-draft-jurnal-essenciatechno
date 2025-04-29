@@ -10,13 +10,13 @@
 
 ## Daftar Dokumen
 
-- [Problem Statement & Background](https://github.com/abdhaamed/EssenciaTechno/tree/main/Wireframe%20Lo-Fi)
-- [Laporan Riset Pengguna](./path/to/laporan-riset.pdf)
-- [Persona](./path/to/persona.pdf)
-- [Peta Empati](./path/to/peta-empati.pdf)
-- [User Journey Map](./path/to/user-journey-map.png)
-- [Dokumen Analisis Kebutuhan](./path/to/analisis-kebutuhan.xlsx)
+- [Problem Statement & Background](https://github.com/abdhaamed/EssenciaTechno/blob/main/Problem%20Statement%20dan%20Latar%20Belakang.pdf)
+- [Laporan Riset Pengguna](https://github.com/abdhaamed/EssenciaTechno/blob/main/Laporan%20Riset%20Pengguna.pdf)
+- [Persona](https://github.com/abdhaamed/EssenciaTechno/blob/main/User%20Persona.pdf)
+- [Peta Empati](https://github.com/abdhaamed/EssenciaTechno/blob/main/Peta%20Empati.pdf)
+- [User Journey Map](https://github.com/abdhaamed/EssenciaTechno/blob/main/Journey%20Map.pdf)
+- [Dokumen Analisis Kebutuhan](https://github.com/abdhaamed/EssenciaTechno/blob/main/Analisis%20Kebutuhan.pdf)
 - [Wireframe Lo-Fi](https://github.com/abdhaamed/EssenciaTechno/tree/main/Wireframe%20Lo-Fi)
-- [Evaluasi Heuristik](./path/to/evaluasi-heuristik.xlsx)
-- [Dokumen Project Management](./path/to/project-management.xlsx)
-- [Draft Jurnal Ilmiah](./path/to/draft-jurnal.docx)
+- [Evaluasi Heuristik](https://github.com/abdhaamed/EssenciaTechno/blob/main/EvaluasiHeuristik.xlsx)
+- [Dokumen Project Management](https://github.com/abdhaamed/EssenciaTechno/blob/main/Project%20Management.xlsx)
+- [Draft Jurnal Ilmiah](https://github.com/abdhaamed/EssenciaTechno/blob/main/draft%20jurnal.docx)
