@@ -17,6 +17,6 @@
 - [User Journey Map](https://github.com/abdhaamed/EssenciaTechno/blob/main/Journey%20Map.pdf)
 - [Dokumen Analisis Kebutuhan](https://github.com/abdhaamed/EssenciaTechno/blob/main/Analisis%20Kebutuhan.pdf)
 - [Wireframe Lo-Fi](https://github.com/abdhaamed/EssenciaTechno/tree/main/Wireframe%20Lo-Fi)
-- [Evaluasi Heuristik](https://github.com/abdhaamed/EssenciaTechno/blob/main/EvaluasiHeuristik.xlsx)
+- [Evaluasi Heuristik](https://github.com/abdhaamed/EssenciaTechno/blob/main/kuisioner/rangkuman%20evaluasi%20heuristik.pdf)
 - [Dokumen Project Management](https://github.com/abdhaamed/EssenciaTechno/blob/main/Project%20Management.xlsx)
 - [Draft Jurnal Ilmiah](https://github.com/abdhaamed/EssenciaTechno/blob/main/draft%20jurnal.docx)
